@@ -1,0 +1,35 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "roms",
+            "role": "apimanager"
+        },
+        {
+            "id": 2,
+            "name": "wass",
+            "role": "apimanager"
+        },
+        {
+            "id": 3,
+            "name": "meeeeeeerde",
+            "role": "apimanager"
+        },
+        {
+            "id": 4,
+            "name": "jsuipasdaccord",
+            "role": "??"
+        }
+    ],
+    "tools": [
+        {
+            "id": 1,
+            "name": "gravitee"
+        },
+        {
+            "id": 2,
+            "name": "apim_tools"
+        }
+    ]
+
+}
